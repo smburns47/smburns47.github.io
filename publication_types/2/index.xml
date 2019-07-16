@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 on Shannon Burns</title>
+    <link>/publication_types/2/</link>
+    <description>Recent content in 2 on Shannon Burns</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 10 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Making social neuroscience less WEIRD - Using fNIRS to measure neural signatures of persuasive influence in a Middle East participant sample</title>
+      <link>/publication/jpsp-weird/</link>
+      <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/jpsp-weird/</guid>
+      <description>&lt;p&gt;Open study materials located &lt;a href=&#34;https://osf.io/wqhyu/&#34; target=&#34;_blank&#34;&gt;on OSF&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;../../project/cross-cultural-persuasion-neuro/&#34;&gt;See here&lt;/a&gt; for a summary explanation of the project.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A functional near infrared spectroscopy (fNIRS) replication of the sunscreen persuasion paradigm</title>
+      <link>/publication/scan-sunscreen/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/scan-sunscreen/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;../../project/persuasion-in-the-brain/&#34;&gt;See here&lt;/a&gt; for a summary explanation of the project.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
