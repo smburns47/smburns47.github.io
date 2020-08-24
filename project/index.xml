@@ -1,66 +1,50 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Shannon Burns</title>
+    <title>Projects | Shannon Burns</title>
     <link>/project/</link>
-    <description>Recent content in Projects on Shannon Burns</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 07 Jul 2019 00:00:00 +0000</lastBuildDate>
-    
-	    <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu23c565aadce99292823232404ae4ccb6_4597_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>/project/</link>
+    </image>
     
     <item>
       <title>Cross-Cultural Persuasion Neuroscience</title>
       <link>/project/cross-cultural-persuasion-neuro/</link>
       <pubDate>Sun, 07 Jul 2019 00:00:00 +0000</pubDate>
-      
       <guid>/project/cross-cultural-persuasion-neuro/</guid>
       <description>&lt;p&gt;Working in the SCN lab at UCLA has been an awesome experience, with opportunities to do very exciting work in a diversity of contexts. In one of these sorts of projects starting in 2015, we joined a multi-year, cross-cultural collaboration in the Middle East aimed at extending the generalizability of social neuroscience research and evaluating the applicability of fNIRS neuroimaging for &amp;ldquo;field-based&amp;rdquo; neuroscience research.&lt;/p&gt;
-
-&lt;p&gt;This project was conducted in concert with Dr. Muniqth Dagher at the political research firm &lt;a href=&#34;https://iiacss.org/about-iiacss/&#34; target=&#34;_blank&#34;&gt;IIACSS&lt;/a&gt; and Dr. Ian McCulloh at Johns Hopkins University. Every summer, Ian and a few grad students from our lab would travel to Munqith&amp;rsquo;s offices in Amman, Jordan to collect fNIRS data from native Arab Jordanian participants.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;./Jordan.png&#34; alt=&#34;Jordan&#34; /&gt;
-&lt;font size=&#34;3&#34;&gt;&lt;em&gt;When the office was closed over the weekend, admittedly it wasn&amp;rsquo;t hard to find other things to do.&lt;/em&gt;&lt;/font&gt;&lt;/p&gt;
-
+&lt;p&gt;This project was conducted in concert with Dr. Muniqth Dagher at the political research firm 
+&lt;a href=&#34;https://iiacss.org/about-iiacss/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IIACSS&lt;/a&gt; and Dr. Ian McCulloh at Johns Hopkins University. Every summer, Ian and a few grad students from our lab would travel to Munqith&amp;rsquo;s offices in Amman, Jordan to collect fNIRS data from native Arab Jordanian participants.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./Jordan.png&#34; alt=&#34;Jordan&#34;&gt;
+&lt;font size=&#34;3&#34;&gt;*When the office was closed over the weekend, admittedly it wasn&amp;rsquo;t hard to find other things to do.*&lt;/font&gt;&lt;/p&gt;
 &lt;p&gt;These were crazy cool research experiences - as neuroscientists, we don&amp;rsquo;t often get to say we travel the world to do field research! These trips were also exhausting whirlwinds, collecting data for at least 8 hours a day almost every day for two weeks straight, in order to finish an entire study in one visit. There were also moments of uncertainty or panic, as we had to learn the logistics of carrying sensitive neuroimaging equipment halfway around the world and orchestrating studies with participants who did not speak English.&lt;/p&gt;
-
-&lt;p&gt;So when the first paper from the project was published, it was very gratifying. &lt;a href=&#34;../../publication/jpsp-weird&#34;&gt;This paper&lt;/a&gt;, published in the Journal for Personality &amp;amp; Social Psychology, evaluated how well persuasion neuroscience findings from American participant samples would replicate in our Jordanian participants.&lt;/p&gt;
-
+&lt;p&gt;So when the first paper from the project was published, it was very gratifying. 
+&lt;a href=&#34;../../publication/jpsp-weird&#34;&gt;This paper&lt;/a&gt;, published in the Journal for Personality &amp;amp; Social Psychology, evaluated how well persuasion neuroscience findings from American participant samples would replicate in our Jordanian participants.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Persuasion in Diverse Populations&lt;/strong&gt;&lt;/p&gt;
-
 &lt;p&gt;The earlier work we aimed to replicate were findings that indicated the amount of activity in the medial prefrontal cortex (mPFC) while viewing a persuasive message predicts how likely a person is to be persuaded by that message. Yet this work has been limited by a lack of study sample diversity.
 Nearly all persuasion neuroscience research has been done with WEIRD participants - people from Western, educated, industrialized, rich, and democratic backgrounds. But WEIRD people are a small minority of the world population, so we need to expand who is included in neuroscience research if we want to make claims about all human brains.&lt;/p&gt;
-
-&lt;p&gt;In this study, participants viewed tv ads in Arabic with anti-smoking, family planning, and anti-violence messages. We recorded their prefrontal neural activity during this with a portable fNIRS unit, called a NirSport from &lt;a href=&#34;nirx.net&#34; target=&#34;_blank&#34;&gt;NIRx&lt;/a&gt;. This unit was about the size of a thick textbook, and could record activity from the entire frontal cortex.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;./Jordan-study.png&#34; alt=&#34;png&#34; /&gt;
+&lt;p&gt;In this study, participants viewed tv ads in Arabic with anti-smoking, family planning, and anti-violence messages. We recorded their prefrontal neural activity during this with a portable fNIRS unit, called a NirSport from 
+&lt;a href=&#34;nirx.net&#34;&gt;NIRx&lt;/a&gt;. This unit was about the size of a thick textbook, and could record activity from the entire frontal cortex.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./Jordan-study.png&#34; alt=&#34;png&#34;&gt;
 &lt;font size=&#34;3&#34;&gt;&lt;em&gt;During data collection in Amman&lt;/em&gt;&lt;/font&gt;&lt;/p&gt;
-
 &lt;p&gt;After each video, participants rated A) how much they agreed with the ad, B) how much they identified with the message, C) how persuasive they thought the ad was, and D) how likely they were to change their behavior to fit the ad. This was a self-report measure of persuasion rather than a behavioral observation like in most persuasion neuroscience studies because we did not have the opportunity to collect delayed behavior data for this part (but that is a component we included in future studies in Jordan).&lt;/p&gt;
-
 &lt;p&gt;Our primary findings replicated the literature with American samples - activity in a large section of the prefrontal cortex including the mPFC was predictive of persuasiveness ratings. A smaller section of the dorsomedial prefrontal cortex was also related to ratings of identification with the message.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;./Figure3.png&#34; alt=&#34;png&#34; /&gt;
-&lt;font size=&#34;3&#34;&gt;&lt;em&gt;Areas of the prefrontal cortex in which activity during a video&amp;rsquo;s viewing was correlated with persuasiveness and identification ratings for that video. Color bar indicates the significance level.&lt;/em&gt;&lt;/font&gt;&lt;/p&gt;
-
+&lt;p&gt;&lt;img src=&#34;./Figure3.png&#34; alt=&#34;png&#34;&gt;
+&lt;font size=&#34;3&#34;&gt;*Areas of the prefrontal cortex in which activity during a video&amp;rsquo;s viewing was correlated with persuasiveness and identification ratings for that video. Color bar indicates the significance level.*&lt;/font&gt;&lt;/p&gt;
 &lt;p&gt;We also replicated a more complex effect from the previous literature, which states that this relationship is stronger in people who have not already been exposed to the arguments in the persuasive messages or who did not already engage in the behavior the messages advocated for. We think this might be because the mPFC is involved in evaluating and intigrating new information into one&amp;rsquo;s self-schema. So if that evaluation process has already occurred at some point, mPFC activity is less likely to predict persuasion.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;./Figure4.png&#34; alt=&#34;png&#34; /&gt;
-&lt;font size=&#34;3&#34;&gt;&lt;em&gt;Areas of the prefrontal cortex in which activity during a video&amp;rsquo;s viewing was correlated with persuasiveness ratings, for arguments that the participants would already know about (targeted) or not know about (non-targeted). Black outline indicates the areas where activity predicted persuasion significantly more for non-targeted vs. targeted messages.&lt;/em&gt;&lt;/font&gt;&lt;/p&gt;
-
+&lt;p&gt;&lt;img src=&#34;./Figure4.png&#34; alt=&#34;png&#34;&gt;
+&lt;font size=&#34;3&#34;&gt;*Areas of the prefrontal cortex in which activity during a video&amp;rsquo;s viewing was correlated with persuasiveness ratings, for arguments that the participants would already know about (targeted) or not know about (non-targeted). Black outline indicates the areas where activity predicted persuasion significantly more for non-targeted vs. targeted messages.*&lt;/font&gt;&lt;/p&gt;
 &lt;p&gt;Lastly, it was important to us that we evaluate how well we could use the brain as not just a predictor of individual persuasion, but as a signal of a message&amp;rsquo;s overall appeal to many people. This sort of analyses would tell us if, for example, fNIRS could be successfully used in pilot groups to determine which public health messages are more effective before spending a lot of money publicizing those messages. Here, we aggregated the brain activity over bootstrapped subsamples of our data many times, and used the averaged activity per message to predict the messages&amp;rsquo; average persuasiveness rank.&lt;/p&gt;
-
 &lt;p&gt;Getting a good ranking of each and every message was hard to do this way, but a couple noteworthy results did stand out - A) we reached a 53% accuracy rate of predicting whether a message was in the most-persuasive, somewhat-persuasive, or least-persuasive tier; B) a 96% accuracy rate of predicting which were the top three messages; and C) a 75% accuracy of predicting the most persuasive message overall. Those numbers indicate fNIRS could be very valuable to an applied persuasion context. We additionally found that only a sample size of 7 was necessary to achieve results that were accurate for the best messages more often than not (&amp;gt;50% accuracy).&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;./Figure6.png&#34; alt=&#34;png&#34; /&gt;
-&lt;font size=&#34;3&#34;&gt;&lt;em&gt;Accuracy of predicting which messages were most persuasive overall, by using aggregated neural activity as a metric. A) accuracy rates for predicting whether a message was very, somewhat, or not very persuasive; B) accuracy for predicting which three messages were the most persuasive; C) accuracy for predicting which single message was the most persuasive.&lt;/em&gt;&lt;/font&gt;&lt;/p&gt;
-
+&lt;p&gt;&lt;img src=&#34;./Figure6.png&#34; alt=&#34;png&#34;&gt;
+&lt;font size=&#34;3&#34;&gt;*Accuracy of predicting which messages were most persuasive overall, by using aggregated neural activity as a metric. A) accuracy rates for predicting whether a message was very, somewhat, or not very persuasive; B) accuracy for predicting which three messages were the most persuasive; C) accuracy for predicting which single message was the most persuasive.*&lt;/font&gt;&lt;/p&gt;
 &lt;p&gt;The replications we got in this study were very encouraging. Persuasion processes tend to utilize social cognitive areas of the brain, which are known to exhibit differences in function between members of individualistic and collectivistic cultures. So knowing that the results in this Jordanian samples matches those of previous American samples gives us more confidence that this finding is generalizable across people.&lt;/p&gt;
-
 &lt;p&gt;Additionally, the predictions of overall message effectiveness make us more hopeful that fNIRS can be used for the applied purpose of predicting the effectiveness of specific future messages. This sort of population prediction based on aggregated brain data has been found in fMRI as well, but it is much more feasible to actually use fNIRS for such a purpose in the real world compared to fMRI.&lt;/p&gt;
-
 &lt;p&gt;So as far as Year 1 of the Jordan project goes (which honestly almost ended before it began when the TSA debated disallowing our equipment to be carried on the plane), I&amp;rsquo;d say it was a success. Can&amp;rsquo;t wait to show you what the next phases of the project bring in the near future!&lt;/p&gt;
 </description>
     </item>
@@ -69,49 +53,36 @@ Nearly all persuasion neuroscience research has been done with WEIRD participant
       <title>Persuasion in the Brain</title>
       <link>/project/persuasion-in-the-brain/</link>
       <pubDate>Sun, 07 Jul 2019 00:00:00 +0000</pubDate>
-      
       <guid>/project/persuasion-in-the-brain/</guid>
       <description>&lt;p&gt;The study of persuasion has a very long history - one of the longest in the formal discipline of social psychology (and if we consider rhetoric to be a practice in persuasion&amp;hellip; the ancient Greeks have plenty of lessons to pass on). Yet, investigation of the brain&amp;rsquo;s role in persuasion is very new. It is only in the last decade that researchers have made a concerted effort to explore the neural mechanisms of persuasion and what leads people to change their behavior.&lt;/p&gt;
-
-&lt;p&gt;In the SCN lab at UCLA (before my time), Emily Falk and colleagues forged new ground in this young domain when &lt;a href=&#34;https://www.jneurosci.org/content/30/25/8421&#34; target=&#34;_blank&#34;&gt;they identified an area&lt;/a&gt; in the front of the brain called the medial prefrontal cortex (mPFC) that provides a signal of persuasion processes - the stronger it activates in response to persuasive messages, the more likely a person is to change their behavior in accordance with that message.&lt;/p&gt;
-
-&lt;p&gt;Since then, this effect has been replicated and extended several times and is (IMO) one of the more reliable neural signatures of behavior within the domain of social neuroscience. Persuasion-related mPFC activity is predictive &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3059382/&#34; target=&#34;_blank&#34;&gt;even when controlling for self-reported intentions&lt;/a&gt; to follow a message, and can &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4733336/&#34; target=&#34;_blank&#34;&gt;predict population-level behaviors&lt;/a&gt; like the success of anti-smoking campaigns.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;./Falk2012.png&#34; alt=&#34;png&#34; /&gt;
-&lt;font size=&#34;3&#34;&gt;&lt;em&gt;Figure from Falk et al. (2012) in Psychol Sci - The green highlighted area denotes the mPFC, where activity levels predict persuasion.&lt;/em&gt;&lt;/font&gt;&lt;/p&gt;
-
+&lt;p&gt;In the SCN lab at UCLA (before my time), Emily Falk and colleagues forged new ground in this young domain when 
+&lt;a href=&#34;https://www.jneurosci.org/content/30/25/8421&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;they identified an area&lt;/a&gt; in the front of the brain called the medial prefrontal cortex (mPFC) that provides a signal of persuasion processes - the stronger it activates in response to persuasive messages, the more likely a person is to change their behavior in accordance with that message.&lt;/p&gt;
+&lt;p&gt;Since then, this effect has been replicated and extended several times and is (IMO) one of the more reliable neural signatures of behavior within the domain of social neuroscience. Persuasion-related mPFC activity is predictive 
+&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3059382/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;even when controlling for self-reported intentions&lt;/a&gt; to follow a message, and can 
+&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4733336/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;predict population-level behaviors&lt;/a&gt; like the success of anti-smoking campaigns.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./Falk2012.png&#34; alt=&#34;png&#34;&gt;
+&lt;font size=&#34;3&#34;&gt;*Figure from Falk et al. (2012) in Psychol Sci - The green highlighted area denotes the mPFC, where activity levels predict persuasion.*&lt;/font&gt;&lt;/p&gt;
 &lt;p&gt;Given the mPFC&amp;rsquo;s utility as a predictor of behavior change in response to persuasive messages, one might hope to use that predictive capacity in real world situations, such as developing public health campaigns. Yet, research into the mPFC&amp;rsquo;s role in persuasion has typically been done using fMRI - a method of neuroimaging that gives a detailed picture of the brain, but which is also very expensive to acquire and use. Thus using fMRI for applied purposes is impractical. When a municipality needs to figure out which tv ad is most effective for their new recycling initiative, they probably won&amp;rsquo;t have a spare $100k sitting around for an fMRI study. Additionally, there are many places in the world where an fMRI machine is not available for even academic use.&lt;/p&gt;
-
 &lt;p&gt;&lt;strong&gt;To Study the Brain Outside the Lab&lt;/strong&gt;&lt;/p&gt;
-
 &lt;p&gt;When I arrived at UCLA as a first year grad student, the lab was investigating how to bring persuasion neuroscience out of the lab and make it usable for scientists without MRI scanners or public health researchers. Specifically, we wanted to know if an alternative neuroimaging techonology called near infrared spectroscopy (fNIRS) could be used in lieu of fMRI. fNIRS is more portable, affordable, and user-friendly than fMRI, which would make it a more accessible tool for applied persuasion neuroscience - if it worked.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;./Fig1.jpg&#34; alt=&#34;jpg&#34; /&gt;
-&lt;font size=&#34;3&#34;&gt;&lt;em&gt;The headband-style fNIRS device we used for our replication study, and the corresponding areas on the prefrontal cortex it could record from.&lt;/em&gt;&lt;/font&gt;&lt;/p&gt;
-
-&lt;p&gt;My graduate PI Matt Lieberman bought the lab&amp;rsquo;s first fNIRS machine at about the same time I arrived. For our &lt;a href=&#34;../../publication/scan-sunscreen&#34;&gt;first study&lt;/a&gt; with the machine, we attempted to replicate a &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5516692/&#34; target=&#34;_blank&#34;&gt;previous fMRI persuasion paper&lt;/a&gt; from our lab. This itself would not be a study of persuasion outside a lab context, but if the fNIRS replication worked, it would give us confidence that fNIRS can be used in novel contexts where fMRI cannot go.&lt;/p&gt;
-
+&lt;p&gt;&lt;img src=&#34;./Fig1.jpg&#34; alt=&#34;jpg&#34;&gt;
+&lt;font size=&#34;3&#34;&gt;*The headband-style fNIRS device we used for our replication study, and the corresponding areas on the prefrontal cortex it could record from.*&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;My graduate PI Matt Lieberman bought the lab&amp;rsquo;s first fNIRS machine at about the same time I arrived. For our 
+&lt;a href=&#34;../../publication/scan-sunscreen&#34;&gt;first study&lt;/a&gt; with the machine, we attempted to replicate a 
+&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5516692/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;previous fMRI persuasion paper&lt;/a&gt; from our lab. This itself would not be a study of persuasion outside a lab context, but if the fNIRS replication worked, it would give us confidence that fNIRS can be used in novel contexts where fMRI cannot go.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;The Replication Study&lt;/strong&gt;&lt;/p&gt;
-
 &lt;p&gt;In the original paper, lab members recruited users and non-users of sunscreen to participate in an fMRI session. In the scanner, participants saw various messages arguing the importance of sunscreen use. After the scanning session, these participants then reported the number of times in the next week they intended to use sunscreen. Finally, one week later, participants were re-contacted and asked how many times they in fact did use sunscreen since the imaging session.&lt;/p&gt;
-
 &lt;p&gt;For the replication study, we did the same thing, except we recorded participants&amp;rsquo; brain activity with fNIRS instead of fMRI. Just like previous fMRI studies and the original paper, we were able to predict how much participants had used sunscreen based on how active their mPFC was during the message viewing. There was also an opposite effect in the right dorsolateral prefrontal cortex (dlPFC), such that more activity here meant more resistance to the persuasive message. Adding this area to the mPFC predictive model significantly increased its accuracy.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;./Figure2-3.png&#34; alt=&#34;png&#34; /&gt;
-&lt;font size=&#34;3&#34;&gt;&lt;em&gt;The right dlPFC and mPFC areas that were significantly associated with sunscreen use behavior (r denotes the correlation effect size).&lt;/em&gt;&lt;/font&gt;&lt;/p&gt;
-
+&lt;p&gt;&lt;img src=&#34;./Figure2-3.png&#34; alt=&#34;png&#34;&gt;
+&lt;font size=&#34;3&#34;&gt;*The right dlPFC and mPFC areas that were significantly associated with sunscreen use behavior (r denotes the correlation effect size).*&lt;/font&gt;&lt;/p&gt;
 &lt;p&gt;We also replicated another finding from the original paper, that previous non-users of sunscreen exhibited this mPFC-behavior effect more strongly than the people who were already acting in accordance with the messages by using sunscreen often.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;./Fig3-3.png&#34; alt=&#34;png&#34; /&gt;
-&lt;font size=&#34;3&#34;&gt;&lt;em&gt;The link between mPFC activity and persuasion behavior was strongest in people who were not already using sunscreen.&lt;/em&gt;&lt;/font&gt;&lt;/p&gt;
-
+&lt;p&gt;&lt;img src=&#34;./Fig3-3.png&#34; alt=&#34;png&#34;&gt;
+&lt;font size=&#34;3&#34;&gt;*The link between mPFC activity and persuasion behavior was strongest in people who were not already using sunscreen.*&lt;/font&gt;&lt;/p&gt;
 &lt;p&gt;There was one effect from the original paper that we were unable to replicate. That study found a variable amount of mPFC activity based on whether the persuasion messages were gain- or loss-framed (e.g., &amp;ldquo;using sunscreen makes you look younger&amp;rdquo; vs. &amp;ldquo;not using sunscreen increases the risk of skin cancer&amp;rdquo;), but we did not in the fNIRS replication. As with many not-quite-direct replications (same procedure, but different brain recording method), it can be hard to know for sure why. In this study we had about twice the sample size of the previous paper, but fNIRS has a lower signal-to-noise level than fMRI does. Was the original effect a false positive, or is fNIRS not sensitive enough to find it? There aren&amp;rsquo;t any other replications of the original effect as of yet, and the rest of the results replicated, so in this paper we made the recommendation that fNIRS could be used for novel research in this domain, but that practitioners aiming to use fNIRS for applied research purposes should stick to effects that have been replicated at some point (tbh, that&amp;rsquo;s a good recommendation for all of neuroscience and psychology).&lt;/p&gt;
-
 &lt;p&gt;&lt;strong&gt;Implications&lt;/strong&gt;&lt;/p&gt;
-
 &lt;p&gt;We scientists love the pursuit of basic knowledge, but for most of us it is also important that our work can make a difference in the world somehow. We spend so much taxpayer money, after all. Using the brain as a predictor of behavior change is a possibility for direct application of neuroscience findings to contemporary, specific problems and I believe the use of fNIRS for this purpose will broaden our ability to succeed in it.&lt;/p&gt;
-
-&lt;p&gt;For instance, fNIRS could be purchased and owned by a local government office and used in their focus group testing of new public health campaigns. Or, researchers could utilize fNIRS&amp;rsquo; portability by taking it with them to study underserved populations that can&amp;rsquo;t typically come to the fMRI scanner (&lt;a href=&#34;../cross-cultural-persuasion-neuro&#34;&gt;we&amp;rsquo;ve done this&lt;/a&gt; for research in the Middle East). This study itself was not conducted outside the lab, but it provides evidence for fNIRS&amp;rsquo; capability to do just that.&lt;/p&gt;
+&lt;p&gt;For instance, fNIRS could be purchased and owned by a local government office and used in their focus group testing of new public health campaigns. Or, researchers could utilize fNIRS&amp;rsquo; portability by taking it with them to study underserved populations that can&amp;rsquo;t typically come to the fMRI scanner (
+&lt;a href=&#34;../cross-cultural-persuasion-neuro&#34;&gt;we&amp;rsquo;ve done this&lt;/a&gt; for research in the Middle East). This study itself was not conducted outside the lab, but it provides evidence for fNIRS&amp;rsquo; capability to do just that.&lt;/p&gt;
 </description>
     </item>
     
