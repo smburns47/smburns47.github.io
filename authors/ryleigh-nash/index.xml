@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ryleigh Nash | Shannon Burns</title>
+    <link>/authors/ryleigh-nash/</link>
+      <atom:link href="/authors/ryleigh-nash/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ryleigh Nash</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 02 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu23c565aadce99292823232404ae4ccb6_4597_512x512_fill_lanczos_center_3.png</url>
+      <title>Ryleigh Nash</title>
+      <link>/authors/ryleigh-nash/</link>
+    </image>
+    
+    <item>
+      <title>Predicting whole-brain neural dynamics from prefrontal cortex functional near-infrared spectroscopy signal during movie-watching</title>
+      <link>/publication/scan-fnirsmri/</link>
+      <pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/scan-fnirsmri/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

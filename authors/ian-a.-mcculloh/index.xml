@@ -5,12 +5,20 @@
     <link>/authors/ian-a.-mcculloh/</link>
       <atom:link href="/authors/ian-a.-mcculloh/index.xml" rel="self" type="application/rss+xml" />
     <description>Ian A. McCulloh</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 10 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 07 Oct 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu23c565aadce99292823232404ae4ccb6_4597_512x512_fill_lanczos_center_3.png</url>
       <title>Ian A. McCulloh</title>
       <link>/authors/ian-a.-mcculloh/</link>
     </image>
+    
+    <item>
+      <title>Neural reference groups - a synchrony-based classification approach for predicting attitudes using fNIRS</title>
+      <link>/publication/scan-referencegroups/</link>
+      <pubDate>Thu, 07 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/scan-referencegroups/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Making social neuroscience less WEIRD - Using fNIRS to measure neural signatures of persuasive influence in a Middle East participant sample</title>

@@ -1,61 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>fMRI on Shannon Burns</title>
+    <title>fMRI | Shannon Burns</title>
     <link>/tags/fmri/</link>
-    <description>Recent content in fMRI on Shannon Burns</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 07 Jul 2019 00:00:00 +0000</lastBuildDate>
-    
-	    <atom:link href="/tags/fmri/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="/tags/fmri/index.xml" rel="self" type="application/rss+xml" />
+    <description>fMRI</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 26 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu23c565aadce99292823232404ae4ccb6_4597_512x512_fill_lanczos_center_3.png</url>
+      <title>fMRI</title>
+      <link>/tags/fmri/</link>
+    </image>
     
     <item>
-      <title>Cross-Cultural Persuasion Neuroscience</title>
-      <link>/project/cross-cultural-persuasion-neuro/</link>
-      <pubDate>Sun, 07 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/project/cross-cultural-persuasion-neuro/</guid>
-      <description>&lt;p&gt;The study of persuasion has a very long history - one of the longest in the formal discipline of social psychology (and if we consider rhetoric to be a practice in persuasion&amp;hellip; the ancient Greeks have plenty of lessons to pass on). Yet, investigation of the brain&amp;rsquo;s role in persuasion is very new. It is only in the last decade that researchers have made a concerted effort to explore the neural mechanisms of persuasion and what leads people to change their behavior.&lt;/p&gt;
-
-&lt;p&gt;In the SCN lab at UCLA (before my time), Emily Falk and colleagues forged new ground in this young domain when &lt;a href=&#34;https://www.jneurosci.org/content/30/25/8421&#34; target=&#34;_blank&#34;&gt;they identified an area&lt;/a&gt; in the front of the brain called the medial prefrontal cortex (mPFC) that provides a signal of persuasion processes - the stronger it activates in response to persuasive messages, the more likely a person is to change their behavior in accordance with that message. Since then, this effect has been replicated and extended several times and is (IMO) one of the more reliable neural signatures of behavior within the domain of social neuroscience. Persuasion-related mPFC activity is predictive &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3059382/&#34; target=&#34;_blank&#34;&gt;even when controlling for self-reported intentions&lt;/a&gt; to follow a message, and can &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4733336/&#34; target=&#34;_blank&#34;&gt;predict population-level behaviors&lt;/a&gt; like the success of anti-smoking campaigns.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;./Falk2012.png&#34; alt=&#34;png&#34; /&gt;
-&lt;font size=&#34;3&#34;&gt;&lt;em&gt;Figure from Falk et al. (2012) in Psychol Sci - The green highlighted area denotes the mPFC, where activity levels predict persuasion.&lt;/em&gt;&lt;/font&gt;&lt;/p&gt;
-
-&lt;p&gt;When I first arrived at UCLA as a first year grad student, the lab was further investigating the practical and theoretical implications of this like of work. I was lucky to benefit from this robust groundwork and get my first publications doing this research. Specifically, we have been investigating the practical applicability and universality of the mPFC&amp;rsquo;s predictive power, as well as expanding theory about &lt;em&gt;why&lt;/em&gt; it works this way.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Persuasion Outside the Lab&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Research into the mPFC&amp;rsquo;s role in persuasion has typically been done using fMRI - a method of neuroimaging that gives a detailed picture of the brain, but which is also very expensive to acquire and use. Given the mPFC&amp;rsquo;s utility as a predictor of behavior change in response to persuasive messages, one might hope to use that predictive capacity in real world situations, such as developing public health campaigns. However, using fMRI for such applications is impractical - when a municipality needs to figure out which tv ad is most effective for their new recycling initiative, they probably won&amp;rsquo;t have a spare $100k sitting around for an fMRI study. Additionally, there are many places in the world where an fMRI machine is not available for even academic use. So my PI Matt Lieberman wanted to see if these findings would replicate in a different methodology, called near infrared spectroscopy (fNIRS). This is a more portable, affordable, and user-friendly neuroimaging technology that would be more accessible as a tool for applied persuasion neuroscience, if it worked.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;./Fig1.jpg&#34; alt=&#34;jpg&#34; /&gt;
-&lt;font size=&#34;3&#34;&gt;&lt;em&gt;The headband-style fNIRS device we used for our replication study, and the corresponding areas on the prefrontal cortex it could record from.&lt;/em&gt;&lt;/font&gt;&lt;/p&gt;
-
-&lt;p&gt;I was actually accepted to the SCN lab specifically because I had fNIRS experience from my undergrad lab at Pomona College (shout out to Prof. Lewis for making me research-ready). So the first thing I worked on upon arriving was replicating a &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5516692/&#34; target=&#34;_blank&#34;&gt;previous fMRI persuasion study&lt;/a&gt; from our lab, but this time with fNIRS. We showed participants messages about the importance of wearing sunscreen while their brain activity was recorded, and then asked them a week later how much they had used sunscreen since the study. Just like in the fMRI studies, &lt;a href=&#34;../../publication/SCAN-sunscreen&#34;&gt;we were able to predict&lt;/a&gt; people&amp;rsquo;s sunscreen usage from their neural activity. Replication = success!&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Persuasion in Diverse Populations&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Besides feasibility issues, research on brain predictors of persuasion has also been limited by a lack of study sample diversity. Nearly all persuasion neuroscience research has been done with WEIRD participants - people from Western, educated, industrialized, rich, and democratic backgrounds. But WEIRD people are a small minority of the world population, so we need to expand who is included in neuroscience research if we want to make claims about all human brains. &lt;a href=&#34;../../publication/JPSP-weird&#34;&gt;In another study&lt;/a&gt; published in the Journal for Personality &amp;amp; Social Psychology, I lead a collaboration between our lab and the political research firm &lt;a href=&#34;https://iiacss.org/about-iiacss/&#34; target=&#34;_blank&#34;&gt;IIACSS&lt;/a&gt; in Amman, Jordan to test whether persuasion could likewise be predicted from brain activity in Arab-speaking Jordanians, not just Americans. This project involved I and another grad student traveling with our fNIRS equipment to Amman for a whirlwind week of nonstop data-collection. Here again, mPFC activity while viewing anti-smoking, anti-violence, and family planning ads predicted participants&amp;rsquo; ratings of how persuasive those ads were. Aggregating across the participant sample, we could even predict which ads were the most effective with up to 96% accuracy. Again, this replication gives us more confidence in using the brain to predict behavior change in real people.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;./Jordan.png&#34; alt=&#34;png&#34; /&gt;
-&lt;font size=&#34;3&#34;&gt;&lt;em&gt;During data collection in Amman&lt;/em&gt;&lt;/font&gt;&lt;/p&gt;
-
-&lt;p&gt;**&lt;/p&gt;
-
-&lt;p&gt;Finally, our team is currently working on a novel theoretical contribution to understanding why the mPFC acts as an indicator of persuasion. Other social neuroscience research names this area as integral for social cognition and&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;References:&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;- Falk, E.B., Berkman, E.T., Mann, T., Harrison, B., &amp;amp; Lieberman, M.D. (2010). Predicting persuasion-induced behavior change from the brain. The Journal of Neuroscience, 30(25), 8421-8424&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;- Falk, E.B., Berkman, E.T., &amp;amp; Lieberman, M.D. (2012). From neural responses to population behavior: Neural focus group predicts population-level media effects. Psychological Science, 23(5), 439-445&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;- Riddle, P.J. Jr., Newman-Norlund, R.D., Baer, J., &amp;amp; Thrasher, J.F. (2016). Neural response to pictorial health warning labels can predict smoking behavioral change. Social Cognitive and Affective Neuroscience, 11(11), 1802-1811&lt;/em&gt;&lt;/p&gt;
-</description>
+      <title>The promises and pitfalls of functional magnetic resonance imaging hyperscanning for social interaction research</title>
+      <link>/publication/sppc-hyperscanning/</link>
+      <pubDate>Fri, 26 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/sppc-hyperscanning/</guid>
+      <description></description>
     </item>
     
   </channel>

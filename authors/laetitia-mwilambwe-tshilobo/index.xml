@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Laetitia Mwilambwe-Tshilobo | Shannon Burns</title>
+    <link>/authors/laetitia-mwilambwe-tshilobo/</link>
+      <atom:link href="/authors/laetitia-mwilambwe-tshilobo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Laetitia Mwilambwe-Tshilobo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 15 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu23c565aadce99292823232404ae4ccb6_4597_512x512_fill_lanczos_center_3.png</url>
+      <title>Laetitia Mwilambwe-Tshilobo</title>
+      <link>/authors/laetitia-mwilambwe-tshilobo/</link>
+    </image>
+    
+    <item>
+      <title>Interdependent minds - Quantifying the dynamics of successful social interactions</title>
+      <link>/publication/cdps-interdependence/</link>
+      <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/cdps-interdependence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hyperscanning shows friends explore and strangers converge in conversation</title>
+      <link>/publication/natcomm-friends/</link>
+      <pubDate>Thu, 05 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/natcomm-friends/</guid>
+      <description>&lt;p&gt;Open study materials located 
+&lt;a href=&#34;https://osf.io/qsnyj/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;on OSF&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
