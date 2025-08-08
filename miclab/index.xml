@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MICLab People | Shannon Burns</title>
-    <link>/people/</link>
-      <atom:link href="/people/index.xml" rel="self" type="application/rss+xml" />
+    <link>/miclab/</link>
+      <atom:link href="/miclab/index.xml" rel="self" type="application/rss+xml" />
     <description>MICLab People</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
       <url>/media/miclab-group-shot.png</url>
       <title>MICLab People</title>
-      <link>/people/</link>
+      <link>/miclab/</link>
     </image>
     
   </channel>
